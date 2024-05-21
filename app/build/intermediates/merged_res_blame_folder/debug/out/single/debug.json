@@ -1,0 +1,182 @@
+[
+    {
+        "merged": "C:\\Users\\jacky\\.gradle\\daemon\\8.0\\com.example.thejordensneakers.app-merged_res-40:\\anim_slide_in_left.xml.flat",
+        "source": "C:\\Users\\jacky\\.gradle\\daemon\\8.0\\com.example.thejordensneakers.app-main-42:\\anim\\slide_in_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\jacky\\.gradle\\daemon\\8.0\\com.example.thejordensneakers.app-merged_res-40:\\drawable_back_image.jpg.flat",
+        "source": "C:\\Users\\jacky\\.gradle\\daemon\\8.0\\com.example.thejordensneakers.app-main-42:\\drawable\\back_image.jpg"
+    },
+    {
+        "merged": "C:\\Users\\jacky\\.gradle\\daemon\\8.0\\com.example.thejordensneakers.app-merged_res-40:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\jacky\\.gradle\\daemon\\8.0\\com.example.thejordensneakers.app-main-42:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\jacky\\.gradle\\daemon\\8.0\\com.example.thejordensneakers.app-merged_res-40:\\drawable_baseline_lock_24.xml.flat",
+        "source": "C:\\Users\\jacky\\.gradle\\daemon\\8.0\\com.example.thejordensneakers.app-main-42:\\drawable\\baseline_lock_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\jacky\\.gradle\\daemon\\8.0\\com.example.thejordensneakers.app-merged_res-40:\\drawable_backimage.png.flat",
+        "source": "C:\\Users\\jacky\\.gradle\\daemon\\8.0\\com.example.thejordensneakers.app-main-42:\\drawable\\backimage.png"
+    },
+    {
+        "merged": "com.example.thejordensneakers.app-merged_res-40:/layout_activity_detail.xml.flat",
+        "source": "com.example.thejordensneakers.app-main-42:/layout/activity_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\jacky\\.gradle\\daemon\\8.0\\com.example.thejordensneakers.app-merged_res-40:\\drawable_ic_person.xml.flat",
+        "source": "C:\\Users\\jacky\\.gradle\\daemon\\8.0\\com.example.thejordensneakers.app-main-42:\\drawable\\ic_person.xml"
+    },
+    {
+        "merged": "C:\\Users\\jacky\\.gradle\\daemon\\8.0\\com.example.thejordensneakers.app-merged_res-40:\\drawable_ic_credit_card_24.xml.flat",
+        "source": "C:\\Users\\jacky\\.gradle\\daemon\\8.0\\com.example.thejordensneakers.app-main-42:\\drawable\\ic_credit_card_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\jacky\\.gradle\\daemon\\8.0\\com.example.thejordensneakers.app-merged_res-40:\\layout_activity_checkout.xml.flat",
+        "source": "C:\\Users\\jacky\\.gradle\\daemon\\8.0\\com.example.thejordensneakers.app-main-42:\\layout\\activity_checkout.xml"
+    },
+    {
+        "merged": "C:\\Users\\jacky\\.gradle\\daemon\\8.0\\com.example.thejordensneakers.app-merged_res-40:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\jacky\\.gradle\\daemon\\8.0\\com.example.thejordensneakers.app-main-42:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\jacky\\.gradle\\daemon\\8.0\\com.example.thejordensneakers.app-merged_res-40:\\drawable_baseline_arrow_back_ios_new_24.xml.flat",
+        "source": "C:\\Users\\jacky\\.gradle\\daemon\\8.0\\com.example.thejordensneakers.app-main-42:\\drawable\\baseline_arrow_back_ios_new_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\jacky\\.gradle\\daemon\\8.0\\com.example.thejordensneakers.app-merged_res-40:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\jacky\\.gradle\\daemon\\8.0\\com.example.thejordensneakers.app-main-42:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\jacky\\.gradle\\daemon\\8.0\\com.example.thejordensneakers.app-merged_res-40:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\jacky\\.gradle\\daemon\\8.0\\com.example.thejordensneakers.app-main-42:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\jacky\\.gradle\\daemon\\8.0\\com.example.thejordensneakers.app-merged_res-40:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\jacky\\.gradle\\daemon\\8.0\\com.example.thejordensneakers.app-main-42:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\jacky\\.gradle\\daemon\\8.0\\com.example.thejordensneakers.app-merged_res-40:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\jacky\\.gradle\\daemon\\8.0\\com.example.thejordensneakers.app-main-42:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\jacky\\.gradle\\daemon\\8.0\\com.example.thejordensneakers.app-merged_res-40:\\layout_activity_sign_up.xml.flat",
+        "source": "C:\\Users\\jacky\\.gradle\\daemon\\8.0\\com.example.thejordensneakers.app-main-42:\\layout\\activity_sign_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\jacky\\.gradle\\daemon\\8.0\\com.example.thejordensneakers.app-merged_res-40:\\layout_activity_order.xml.flat",
+        "source": "C:\\Users\\jacky\\.gradle\\daemon\\8.0\\com.example.thejordensneakers.app-main-42:\\layout\\activity_order.xml"
+    },
+    {
+        "merged": "C:\\Users\\jacky\\.gradle\\daemon\\8.0\\com.example.thejordensneakers.app-merged_res-40:\\drawable_home.xml.flat",
+        "source": "C:\\Users\\jacky\\.gradle\\daemon\\8.0\\com.example.thejordensneakers.app-main-42:\\drawable\\home.xml"
+    },
+    {
+        "merged": "C:\\Users\\jacky\\.gradle\\daemon\\8.0\\com.example.thejordensneakers.app-merged_res-40:\\drawable_baseline_email_24.xml.flat",
+        "source": "C:\\Users\\jacky\\.gradle\\daemon\\8.0\\com.example.thejordensneakers.app-main-42:\\drawable\\baseline_email_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\jacky\\.gradle\\daemon\\8.0\\com.example.thejordensneakers.app-merged_res-40:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\jacky\\.gradle\\daemon\\8.0\\com.example.thejordensneakers.app-main-42:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\jacky\\.gradle\\daemon\\8.0\\com.example.thejordensneakers.app-merged_res-40:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\jacky\\.gradle\\daemon\\8.0\\com.example.thejordensneakers.app-main-42:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\jacky\\.gradle\\daemon\\8.0\\com.example.thejordensneakers.app-merged_res-40:\\drawable_ic_person_pin.xml.flat",
+        "source": "C:\\Users\\jacky\\.gradle\\daemon\\8.0\\com.example.thejordensneakers.app-main-42:\\drawable\\ic_person_pin.xml"
+    },
+    {
+        "merged": "C:\\Users\\jacky\\.gradle\\daemon\\8.0\\com.example.thejordensneakers.app-merged_res-40:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\jacky\\.gradle\\daemon\\8.0\\com.example.thejordensneakers.app-main-42:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\jacky\\.gradle\\daemon\\8.0\\com.example.thejordensneakers.app-merged_res-40:\\drawable_delete_icon.xml.flat",
+        "source": "C:\\Users\\jacky\\.gradle\\daemon\\8.0\\com.example.thejordensneakers.app-main-42:\\drawable\\delete_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\jacky\\.gradle\\daemon\\8.0\\com.example.thejordensneakers.app-merged_res-40:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\jacky\\.gradle\\daemon\\8.0\\com.example.thejordensneakers.app-main-42:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\jacky\\.gradle\\daemon\\8.0\\com.example.thejordensneakers.app-merged_res-40:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\jacky\\.gradle\\daemon\\8.0\\com.example.thejordensneakers.app-main-42:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\jacky\\.gradle\\daemon\\8.0\\com.example.thejordensneakers.app-merged_res-40:\\drawable_gradient_background.xml.flat",
+        "source": "C:\\Users\\jacky\\.gradle\\daemon\\8.0\\com.example.thejordensneakers.app-main-42:\\drawable\\gradient_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\jacky\\.gradle\\daemon\\8.0\\com.example.thejordensneakers.app-merged_res-40:\\anim_slide_top.xml.flat",
+        "source": "C:\\Users\\jacky\\.gradle\\daemon\\8.0\\com.example.thejordensneakers.app-main-42:\\anim\\slide_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\jacky\\.gradle\\daemon\\8.0\\com.example.thejordensneakers.app-merged_res-40:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\jacky\\.gradle\\daemon\\8.0\\com.example.thejordensneakers.app-main-42:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\jacky\\.gradle\\daemon\\8.0\\com.example.thejordensneakers.app-merged_res-40:\\layout_activity_product_list.xml.flat",
+        "source": "C:\\Users\\jacky\\.gradle\\daemon\\8.0\\com.example.thejordensneakers.app-main-42:\\layout\\activity_product_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\jacky\\.gradle\\daemon\\8.0\\com.example.thejordensneakers.app-merged_res-40:\\layout_activity_cart.xml.flat",
+        "source": "C:\\Users\\jacky\\.gradle\\daemon\\8.0\\com.example.thejordensneakers.app-main-42:\\layout\\activity_cart.xml"
+    },
+    {
+        "merged": "C:\\Users\\jacky\\.gradle\\daemon\\8.0\\com.example.thejordensneakers.app-merged_res-40:\\layout_activity_product.xml.flat",
+        "source": "C:\\Users\\jacky\\.gradle\\daemon\\8.0\\com.example.thejordensneakers.app-main-42:\\layout\\activity_product.xml"
+    },
+    {
+        "merged": "C:\\Users\\jacky\\.gradle\\daemon\\8.0\\com.example.thejordensneakers.app-merged_res-40:\\drawable_splash_image.jpg.flat",
+        "source": "C:\\Users\\jacky\\.gradle\\daemon\\8.0\\com.example.thejordensneakers.app-main-42:\\drawable\\splash_image.jpg"
+    },
+    {
+        "merged": "C:\\Users\\jacky\\.gradle\\daemon\\8.0\\com.example.thejordensneakers.app-merged_res-40:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\jacky\\.gradle\\daemon\\8.0\\com.example.thejordensneakers.app-main-42:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\jacky\\.gradle\\daemon\\8.0\\com.example.thejordensneakers.app-merged_res-40:\\drawable_jorden.jpg.flat",
+        "source": "C:\\Users\\jacky\\.gradle\\daemon\\8.0\\com.example.thejordensneakers.app-main-42:\\drawable\\jorden.jpg"
+    },
+    {
+        "merged": "C:\\Users\\jacky\\.gradle\\daemon\\8.0\\com.example.thejordensneakers.app-merged_res-40:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\jacky\\.gradle\\daemon\\8.0\\com.example.thejordensneakers.app-main-42:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\jacky\\.gradle\\daemon\\8.0\\com.example.thejordensneakers.app-merged_res-40:\\anim_fade_in.xml.flat",
+        "source": "C:\\Users\\jacky\\.gradle\\daemon\\8.0\\com.example.thejordensneakers.app-main-42:\\anim\\fade_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\jacky\\.gradle\\daemon\\8.0\\com.example.thejordensneakers.app-merged_res-40:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\jacky\\.gradle\\daemon\\8.0\\com.example.thejordensneakers.app-main-42:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\jacky\\.gradle\\daemon\\8.0\\com.example.thejordensneakers.app-merged_res-40:\\drawable_edit_text_background.xml.flat",
+        "source": "C:\\Users\\jacky\\.gradle\\daemon\\8.0\\com.example.thejordensneakers.app-main-42:\\drawable\\edit_text_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\jacky\\.gradle\\daemon\\8.0\\com.example.thejordensneakers.app-merged_res-40:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\jacky\\.gradle\\daemon\\8.0\\com.example.thejordensneakers.app-main-42:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\jacky\\.gradle\\daemon\\8.0\\com.example.thejordensneakers.app-merged_res-40:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\jacky\\.gradle\\daemon\\8.0\\com.example.thejordensneakers.app-main-42:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\jacky\\.gradle\\daemon\\8.0\\com.example.thejordensneakers.app-merged_res-40:\\anim_slide_in_right.xml.flat",
+        "source": "C:\\Users\\jacky\\.gradle\\daemon\\8.0\\com.example.thejordensneakers.app-main-42:\\anim\\slide_in_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\jacky\\.gradle\\daemon\\8.0\\com.example.thejordensneakers.app-merged_res-40:\\layout_activity_detail.xml.flat",
+        "source": "C:\\Users\\jacky\\.gradle\\daemon\\8.0\\com.example.thejordensneakers.app-main-42:\\layout\\activity_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\jacky\\.gradle\\daemon\\8.0\\com.example.thejordensneakers.app-merged_res-40:\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\jacky\\.gradle\\daemon\\8.0\\com.example.thejordensneakers.app-main-42:\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\jacky\\.gradle\\daemon\\8.0\\com.example.thejordensneakers.app-merged_res-40:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\jacky\\.gradle\\daemon\\8.0\\com.example.thejordensneakers.app-main-42:\\layout\\activity_main.xml"
+    }
+]

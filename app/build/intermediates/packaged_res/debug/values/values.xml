@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="accent">#121212</color>
+    <color name="black">#FF000000</color>
+    <color name="button_black">#2E2E2E</color>
+    <color name="button_normal">#FAFAFA</color>
+    <color name="cart_background">#ADAFAB</color>
+    <color name="home_background">#424242</color>
+    <color name="login_back">#9E9E9E</color>
+    <color name="primary">#121212</color>
+    <color name="primaryDark">#000</color>
+    <color name="primaryText">#222</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">The Jorden Sneakers</string>
+    <string name="gcm_defaultSenderId" translatable="false">432126279242</string>
+    <string name="google_api_key" translatable="false">AIzaSyCt8YZ3uDI3QfG0ao8rSCWLCA7iJUlE0T4</string>
+    <string name="google_app_id" translatable="false">1:432126279242:android:78f9529fb22ea564aab0b3</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCt8YZ3uDI3QfG0ao8rSCWLCA7iJUlE0T4</string>
+    <string name="google_storage_bucket" translatable="false">the-jorden-sneakers.appspot.com</string>
+    <string name="project_id" translatable="false">the-jorden-sneakers</string>
+    <style name="Base.Theme.TheJordenSneakers" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="BaseTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorControlNormal">@color/white</item>
+    </style>
+    <style name="Theme.TheJordenSneakers" parent="Base.Theme.TheJordenSneakers"/>
+    <style name="custom_card_view" parent="">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSizeTopRight">48dp</item>
+        <item name="cornerSizeTopLeft">48dp</item>
+        <item name="cornerSizeBottomLeft">0dp</item>
+        <item name="cornerSizeBottomRight">0dp</item>
+    </style>
+    <style name="custom_cardview_view_style" parent="Widget.MaterialComponents.CardView">
+        <item name="shapeAppearance">@style/custom_card_view</item>
+    </style>
+</resources>
